@@ -1,0 +1,15 @@
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.0\WeatherApp.exe
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.0\WeatherApp.deps.json
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.0\WeatherApp.runtimeconfig.json
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.0\WeatherApp.runtimeconfig.dev.json
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.0\WeatherApp.dll
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.0\WeatherApp.pdb
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.0\WeatherAppLibrary.dll
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.0\WeatherAppLibrary.pdb
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.0\WeatherApp.csprojAssemblyReference.cache
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.0\WeatherApp.AssemblyInfo.cs
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.0\WeatherApp.csproj.CopyComplete
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.0\WeatherApp.dll
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.0\WeatherApp.pdb

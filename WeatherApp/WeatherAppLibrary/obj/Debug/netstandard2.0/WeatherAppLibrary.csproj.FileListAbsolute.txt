@@ -1,0 +1,7 @@
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherAppLibrary\bin\Debug\netstandard2.0\WeatherAppLibrary.deps.json
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherAppLibrary\bin\Debug\netstandard2.0\WeatherAppLibrary.dll
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherAppLibrary\obj\Debug\netstandard2.0\WeatherAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherAppLibrary\obj\Debug\netstandard2.0\WeatherAppLibrary.AssemblyInfo.cs
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherAppLibrary\bin\Debug\netstandard2.0\WeatherAppLibrary.pdb
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherAppLibrary\obj\Debug\netstandard2.0\WeatherAppLibrary.dll
+C:\Users\Jermaine Africa\source\repos\WeatherApp\WeatherApp\WeatherAppLibrary\obj\Debug\netstandard2.0\WeatherAppLibrary.pdb
